@@ -1,0 +1,49 @@
+img {
+  max-width: 2em;
+  max-height: 2em;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+div.center {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+div.section {
+  border: 2px solid darkblue;
+  text-align: center;
+}
+
+table {
+  margin: 2em 0;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0em 2em 1em 2em;
+}
+
+td:first-child,
+th:first-child {
+  border-right: solid 2px darkblue;
+}
+
+th {
+  padding-left: 2em;
+}
+
+ul {
+  margin-top: 0;
+}
+li {
+  display: inline;
+}
