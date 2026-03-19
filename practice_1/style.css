@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  background-color: #ffff00;
+}
+
+h2 {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+div.center {
+  display: flex;
+}
+
+div.details-section {
+  border-left: 2px solid;
+  padding-left: 1em;
+  width: 60%;
+}
+
+div.last-posts-section {
+  align-items: right;
+  width: 20%;
+}
+
+div.menu-section {
+  width: 20%;
+  text-align: left;
+}
+
+div.last-posts {
+  border: 2px dotted;
+  padding: 1em;
+  text-align: right;
+}
+
+.contact {
+  text-align: center;
+  font-size: 0.8em;
+}
